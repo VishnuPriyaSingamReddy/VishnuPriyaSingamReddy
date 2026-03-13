@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishnu Priya</h1>
+<h3 align="center">CSE(Data Science) Student</h3>
 
-<!--
-**VishnuPriyaSingamReddy/VishnuPriyaSingamReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning Machine Learning & Data Science
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: vishnupriyasingamreddy6@gmail.com
+
+---
+
+### 🚀 Tech Stack
+Python | SQL | Machine Learning | Data Science | Git
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VishnuPriyaSingamReddy&show_icons=true)
+
+### 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=VishnuPriyaSingamReddy)
+
+### 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishnuPriyaSingamReddy)
+
+### 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/vishnu-priya-singam-reddy-900a94292/)
+
