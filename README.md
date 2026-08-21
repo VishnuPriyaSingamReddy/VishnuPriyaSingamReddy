@@ -1,6 +1,6 @@
 # Hi there, I'm Vishnu Priya 👋
 
-**3rd Year CSE (Data Science) Student** at RGMCET, Nandyal  
+**Fibal Year CSE (Data Science) Student** at RGMCET, Nandyal  
 *Passionate about Data Science, Machine Learning, and building data-driven solutions.*
 
 ---
